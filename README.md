@@ -32,3 +32,6 @@ httpsから始まる1行をコピー
 `$ git push origin main`  
 
 ## Githubで確認
+
+# 参考  
+[Gitの環境構築](https://prog-8.com/docs/git-env)  
