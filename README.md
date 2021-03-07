@@ -33,5 +33,8 @@ httpsから始まる1行をコピー
 
 ## Githubで確認
 
+## Branchの作成・移動  
+`$ git checkout -b <branchname>`
+
 # 参考  
 [Gitの環境構築](https://prog-8.com/docs/git-env)  
