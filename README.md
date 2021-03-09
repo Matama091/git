@@ -66,3 +66,4 @@ httpsから始まる1行をコピー
 [commit]
         template = $HOME.stCommitMsg
 ```
+
